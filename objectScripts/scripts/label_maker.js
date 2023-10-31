@@ -1,3 +1,4 @@
+// Exercise 1
 // JavaScript object - creates a file system to hold information
 
 let myInfo = {
